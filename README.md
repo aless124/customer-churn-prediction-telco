@@ -40,7 +40,6 @@ customer-churn-prediction-telco/
 └── .gitignore                    # Fichiers à ignorer par Git
 
 ```
-
 ---
 
 ## 📦 Données
