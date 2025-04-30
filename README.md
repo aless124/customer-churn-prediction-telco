@@ -73,13 +73,6 @@ customer-churn-prediction-telco/
 5. **Recommandations**
    - Stratégies de rétention pour les segments à risque
 
----
-
-## 📊 Résultats
-
-- **Modèle retenu** : XGBoost
-- **AUC** : 0.85
-- **Principaux facteurs de churn** : contrat mensuel, absence d'engagement, montant élevé des charges mensuelles
 
 ---
 
